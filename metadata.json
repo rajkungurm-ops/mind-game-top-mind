@@ -1,0 +1,6 @@
+{
+  "name": "Mind Game - Top Mind",
+  "description": "Word search puzzle mind game featuring 30 snake-path levels, lucky daily spin wheel with coin prizes, hints, coins, and real-time timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
